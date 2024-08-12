@@ -18,6 +18,7 @@ int main(void) {
             current_len = 1;
         }
     }
+
     // Check the last segment after the loop
     max_len = MAX(max_len, current_len);
 
