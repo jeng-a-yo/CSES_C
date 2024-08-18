@@ -19,24 +19,24 @@
 
 ---
 ## Introductory Problems
-1. [Weird Algorithm](Introductory_Problems\1_weird_algorithm.c)
-1. [Missing Number](Introductory_Problems\2_missing_number.c)
-1. [Repetitions](Introductory_Problems\3_repetitions.c)
-1. [Increasing Array](Introductory_Problems\4_increasingmg_array.c)
-1. [Permutations](Introductory_Problems\5_permutations.c)
-1. [Number Spiral](Introductory_Problems\6_number_spiral.c)
+1. [Weird Algorithm](Introductory_Problems/1_weird_algorithm.c)
+1. [Missing Number](Introductory_Problems/2_missing_number.c)
+1. [Repetitions](Introductory_Problems/3_repetitions.c)
+1. [Increasing Array](Introductory_Problems/4_increasingmg_array.c)
+1. [Permutations](Introductory_Problems/5_permutations.c)
+1. [Number Spiral](Introductory_Problems/6_number_spiral.c)
 1. Two Knights
-1. [Two Sets](Introductory_Problems\8_two_set.c)
-1. [Bit Strings](Introductory_Problems\9_trailing_zeros.c)
-1. [Trailing Zeros](Introductory_Problems\10_trailing_zeros.c)
-1. [Coin Piles](Introductory_Problems\11_coin_piles.c)
-1. [Palindrome Reorder](Introductory_Problems\12_palindrome_recorder.c)
-1. [Gray Code](Introductory_Problems\13_gray_code.c)
-1. [Tower of Hanoi](Introductory_Problems\14_tower_of_hanoi.c)
-1. [Creating Strings](Introductory_Problems\15_creating_string.c)
-1. [Apple Division](Introductory_Problems\16_apple_division.c)
+1. [Two Sets](Introductory_Problems/8_two_set.c)
+1. [Bit Strings](Introductory_Problems/9_trailing_zeros.c)
+1. [Trailing Zeros](Introductory_Problems/10_trailing_zeros.c)
+1. [Coin Piles](Introductory_Problems/11_coin_piles.c)
+1. [Palindrome Reorder](Introductory_Problems/12_palindrome_recorder.c)
+1. [Gray Code](Introductory_Problems/13_gray_code.c)
+1. [Tower of Hanoi](Introductory_Problems/14_tower_of_hanoi.c)
+1. [Creating Strings](Introductory_Problems/15_creating_string.c)
+1. [Apple Division](Introductory_Problems/16_apple_division.c)
 1. Chessboard and Queens
-1. [Digit Queries](Introductory_Problems\18_digit_queries.c)
+1. [Digit Queries](Introductory_Problems/18_digit_queries.c)
 1. Grid Paths
 
 ## Sorting and Searching
