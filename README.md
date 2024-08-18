@@ -40,13 +40,13 @@
 1. Grid Paths
 
 ## Sorting and Searching
-1. Distinct Numbers
-1. Apartments
-1. Ferris Wheel
-1. Concert Tickets
-1. Restaurant Customers
-1. Movie Festival
-1. Sum of Two Values
+1. [Distinct Numbers](Sorting_and_Searching/1_distinct_numbers.c)
+1. [Apartments](Sorting_and_Searching/2_apartments.c)
+1. [Ferris Wheel](Sorting_and_Searching/3_ferris_wheel.c)
+1. [Concert Tickets](Sorting_and_Searching/4_concert_tickets.c)
+1. [Restaurant Customers](Sorting_and_Searching/5_restaurant_customers.c)
+1. [Movie Festival](Sorting_and_Searching/6_movie_festival.c)
+1. [Sum of Two Values](Sorting_and_Searching/7_sum_of_two_values.c)
 1. Maximum Subarray Sum
 1. Stick Lengths
 1. Missing Coin Sum
