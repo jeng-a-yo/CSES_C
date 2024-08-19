@@ -48,7 +48,7 @@
 1. [Movie Festival](Sorting_and_Searching/6_movie_festival.c)
 1. [Sum of Two Values](Sorting_and_Searching/7_sum_of_two_values.c)
 2. [Maximum Subarray Sum](Sorting_and_Searching/8_maximum_subarray_sum.c)
-3. Stick Lengths
+3. [Stick Lengths](Sorting_and_Searching/9_stick_lengths.c)
 4. Missing Coin Sum
 5. Collecting Numbers
 6. Collecting Numbers II
