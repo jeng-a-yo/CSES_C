@@ -43,38 +43,38 @@
 1. [Distinct Numbers](Sorting_and_Searching/1_distinct_numbers.c)
 1. [Apartments](Sorting_and_Searching/2_apartments.c)
 1. [Ferris Wheel](Sorting_and_Searching/3_ferris_wheel.c)
-2. Concert Tickets
-3. [Restaurant Customers](Sorting_and_Searching/5_restaurant_customers.c)
-4. [Movie Festival](Sorting_and_Searching/6_movie_festival.c)
-5. [Sum of Two Values](Sorting_and_Searching/7_sum_of_two_values.c)
-6. Maximum Subarray Sum
-7. Stick Lengths
-8. Missing Coin Sum
-9. Collecting Numbers
-10. Collecting Numbers II
-11. Playlist
-12. Towers
-13. Traffic Lights
-14. Josephus Problem I
-15. Josephus Problem II
-16. Nested Ranges Check
-17. Nested Ranges Count
-18. Room Allocation
-19. Factory Machines
-20. Tasks and Deadlines
-21. Reading Books
-22. Sum of Three Values
-23. Sum of Four Values
-24. Nearest Smaller Values
-25. Subarray Sums I
-26. Subarray Sums II
-27. Subarray Divisibility
-28. Subarray Distinct Values
-29. Array Division
-30. Sliding Median
-31. Sliding Cost
-32. Movie Festival II
-33. Maximum Subarray Sum II
+1. Concert Tickets
+1. [Restaurant Customers](Sorting_and_Searching/5_restaurant_customers.c)
+1. [Movie Festival](Sorting_and_Searching/6_movie_festival.c)
+1. [Sum of Two Values](Sorting_and_Searching/7_sum_of_two_values.c)
+2. [Maximum Subarray Sum](Sorting_and_Searching/8_maximum_subarray_sum.c)
+3. Stick Lengths
+4. Missing Coin Sum
+5. Collecting Numbers
+6. Collecting Numbers II
+7. Playlist
+8. Towers
+9. Traffic Lights
+10. Josephus Problem I
+11. Josephus Problem II
+12. Nested Ranges Check
+13. Nested Ranges Count
+14. Room Allocation
+15. Factory Machines
+16. Tasks and Deadlines
+17. Reading Books
+18. Sum of Three Values
+19. Sum of Four Values
+20. Nearest Smaller Values
+21. Subarray Sums I
+22. Subarray Sums II
+23. Subarray Divisibility
+24. Subarray Distinct Values
+25. Array Division
+26. Sliding Median
+27. Sliding Cost
+28. Movie Festival II
+29. Maximum Subarray Sum II
 
 ## Dynamic Programming
 1. Dice Combinations
