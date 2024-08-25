@@ -51,7 +51,7 @@
 3. [Stick Lengths](Sorting_and_Searching/9_stick_lengths.c)
 4. [Missing Coin Sum](Sorting_and_Searching/10_missing_coin_sum.c)
 5. [Collecting Numbers](Sorting_and_Searching/11_collecting_numbers.c)
-6. Collecting Numbers II
+6. [Collecting Numbers II](Sorting_and_Searching/12_collecting_numbers_II.c)
 7. Playlist
 8. Towers
 9. Traffic Lights
