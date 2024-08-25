@@ -50,7 +50,7 @@
 2. [Maximum Subarray Sum](Sorting_and_Searching/8_maximum_subarray_sum.c)
 3. [Stick Lengths](Sorting_and_Searching/9_stick_lengths.c)
 4. [Missing Coin Sum](Sorting_and_Searching/10_missing_coin_sum.c)
-5. Collecting Numbers
+5. [Collecting Numbers](Sorting_and_Searching/11_collecting_numbers.c)
 6. Collecting Numbers II
 7. Playlist
 8. Towers
