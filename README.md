@@ -52,7 +52,7 @@
 4. [Missing Coin Sum](Sorting_and_Searching/10_missing_coin_sum.c)
 5. [Collecting Numbers](Sorting_and_Searching/11_collecting_numbers.c)
 6. [Collecting Numbers II](Sorting_and_Searching/12_collecting_numbers_II.c)
-7. Playlist
+7. [Playlist](Sorting_and_Searching/13_playlist.c)
 8. Towers
 9. Traffic Lights
 10. Josephus Problem I
