@@ -53,7 +53,7 @@
 5. [Collecting Numbers](Sorting_and_Searching/11_collecting_numbers.c)
 6. [Collecting Numbers II](Sorting_and_Searching/12_collecting_numbers_II.c)
 7. [Playlist](Sorting_and_Searching/13_playlist.c)
-8. Towers
+8. [Towers](Sorting_and_Searching/14_towers.c)
 9. Traffic Lights
 10. Josephus Problem I
 11. Josephus Problem II
